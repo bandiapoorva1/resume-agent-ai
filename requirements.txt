@@ -1,0 +1,6 @@
+openai
+gradio
+pyresparser
+langchain
+faiss-cpu
+python-docx
